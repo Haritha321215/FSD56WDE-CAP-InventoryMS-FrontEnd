@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // define the base url for the API
-const baseURL = "https://fsd56wde-cap-inventoryms-backend.onrender.com";
+const baseURL = "https://fsd56wde-cap-inventoryms-backend.onrender.com/api";
 // const baseURL = "http://localhost:3001/api";
 
 // create an instance of axios
